@@ -152,7 +152,7 @@ This project demonstrates **real-world AWS serverless architecture**, **secure f
 
 ## 👨‍💻 Author
 
-**Shail Patel**  
+**Mayank Tumbadiya**  
 B.Tech Student | Cloud & Full-Stack Enthusiast  
 
 ---
